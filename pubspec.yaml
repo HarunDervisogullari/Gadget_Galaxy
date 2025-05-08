@@ -1,0 +1,75 @@
+name: shoppingapp
+description: "A new Flutter project."
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.4 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+  firebase_core: ^2.24.2
+  cloud_firestore: ^4.14.0
+  firebase_auth: ^4.16.0
+  firebase_storage: ^11.6.0
+  firebase_database: ^10.4.0
+  fluttertoast: ^8.2.4
+  google_sign_in: ^6.2.1
+  font_awesome_flutter: ^10.6.0
+  carousel_slider: ^4.2.1
+  intl_phone_field: ^3.2.0
+  provider: ^6.1.1
+  cached_network_image: ^3.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/category_images/GG.png
+    - assets/category_images/audio.png
+    - assets/category_images/camera.png
+    - assets/category_images/drone.png
+    - assets/category_images/gaming.png
+    - assets/category_images/laptop.png
+    - assets/category_images/monitor.png
+    - assets/category_images/network.png
+    - assets/category_images/printer.png
+    - assets/category_images/phonoacc.png
+    - assets/category_images/storage.png
+    - assets/category_images/wearable.png
+    - assets/category_images/newyear.png
+    - assets/category_images/offer.png
+    - assets/category_images/sale.png
+    - assets/category_images/Adsiztasarim.png
+    - assets/category_images/61+XjHbWrZL._AC_SL1312_.png
+    - assets/category_images/mycart.png
+    - assets/category_images/login.png
+    - assets/category_images/Gaming Headset.png
+    - assets/category_images/61USpC8rfrL._AC_SL1500_.png
+    - assets/category_images/1.png
+    - assets/category_images/2.png
+    - assets/category_images/3.png
+    - assets/category_images/4.png
+    - assets/category_images/5.png
+    - assets/category_images/6.png
+    - assets/category_images/7.png
+    - assets/category_images/8.png
+    - assets/category_images/9.png
+    - assets/category_images/10.png
+    - assets/category_images/11.png
+    - assets/category_images/12.png
+    - assets/category_images/13.png
+    - assets/category_images/14.png
+    - assets/category_images/15.png
+    - assets/category_images/16.png
